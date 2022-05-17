@@ -7,9 +7,12 @@ li {
 }
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
 }
 body{
     background-color: mintcream;
+    width: 500px;
 }
 #top_image {
     position: relative;
